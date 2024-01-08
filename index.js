@@ -1,9 +1,9 @@
 let projects = [
 {
     img:"https://i.ytimg.com/vi/TwYKwaEjJd4/maxresdefault.jpg",
-    title:"project",
+    title:"Portfolio",
     description:"Portfolio website using HTML,CSS,JS",
-    link:"",
+    link:"https://jetunpatel1376.github.io/Portfolio_my/",
 },
 {
     img:"https://i.ytimg.com/vi/TwYKwaEjJd4/maxresdefault.jpg",
